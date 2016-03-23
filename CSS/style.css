@@ -1,0 +1,29 @@
+*{  /*para reestablecer los codigos, saca los espacios preestablecidos*/
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	/*esto es un comentario*/
+	color:rgb(255,0,0);
+	font-size: 45px;
+	text-align: center;
+	font-family: verdana;
+	text-shadow: 5px 5px 15px #00f;
+
+}
+img{
+	/*altura de la imagen*/
+	height: 300px;
+	/*poner el borde solido*/
+	border: solid 3px #000;
+	/*formato del border*/
+	border-radius: 50%;
+	box-shadow: 20px 20px 15px #ccc;
+
+}
+
+.centrado{
+	width: 250px;
+	margin: 0px auto;
+}
