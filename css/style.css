@@ -1,0 +1,23 @@
+*{
+	padding: 0;/*para margenes del h1 para no tener mucho espacio de la in=magen*/
+	margin: 0;
+}
+h1{
+	/*esto es un comentario*/
+	/*color: #f00; colores*/
+	color: rgb(200,5,100);/*es un sistema exadecimal de color*/
+	font-size: 180px;
+	text-align: center;
+	font-family: serif;
+	text-shadow: 5px 5px 5px #55a; /*colocar sombra*/
+}
+img{
+	height: 260px;/*altura de imagen*/
+	/*border: solid 1px #000;/*borde de imagen solido*/
+	border-radius: 60%;/*la curvatura que va a tener la imagen*/
+	box-shadow: 5px 5px 10px #aaa;/*sombra de la imagen*/
+}
+.centrado{
+	width: 280px;
+	margin: 0px auto;/*para centrar la imagen*/
+}
