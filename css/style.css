@@ -1,0 +1,22 @@
+*{
+	padding: 0px;
+ 	margin: 0px;
+ }
+
+h1{
+	/* ESTO ES UN COMENTARIO */
+	color:rgb(250,150,50);
+	font-size: 200px;
+	text-align: center;
+	font-family: Verdana;
+	text-shadow: 15px -10px 25px #000;
+}
+img{
+	height: 300px;
+	border-radius: 150px;
+	box-shadow: 20px -15px 50px;
+}
+.centrado{
+	width: 250px;
+	margin: 0px auto;
+}0.
