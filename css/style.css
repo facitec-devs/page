@@ -1,0 +1,27 @@
+*{
+	padding: 0px;/*espacio entre el borde y el contenido*/
+	margin: 0px;
+}
+
+
+
+h1{
+	
+	color:#F00; /*rgb(255,0,0) asi tambien se puede definir un color. RGB= RED GREEN BLUE */
+	font-size: 250px; /*tamanho de letra. PX=pixel*/
+	text-align: center; /*alineacion del texto*/
+	font-family:century; /*serif= decoraciones de las letras - SANS-SERIF sin decoraciones */
+	text-shadow: -5px -5px 15px #000; /*desplazamiento de sombra de arriba -abajo, iz-der + color*/
+}
+
+img{
+	height: 300px; /*altura o tamanho de imagen*/
+	border: solid 1px #000; /*borde*/
+	border-radius: 50%; 
+	box-shadow: 50px 30px 50px #ccc;/*colores en codigos hexadecimales*/
+}
+
+.centrado{/*para centrar la imagen*/
+	width: 250px;
+	margin: 0 auto;
+}
