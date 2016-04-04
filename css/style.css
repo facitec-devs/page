@@ -1,0 +1,40 @@
+/*(* es un selector universal)
+*/
+
+*{
+	margin: 0px;
+font-family: sans-serif;
+}
+
+
+header{background-color: #36367C; 
+	/*padding amplia el borde
+	*/
+padding: 25px;
+}
+header img{
+	height: 80px;
+	float: left;
+	padding-right: 15px; 
+	box-shadow: 0px 4px 8px 7f3100;
+}
+	h1{
+		color: #fff;
+		font-size: 48px;
+		padding: 20px;
+		text-shadow: 5px 2px 1px #7f3100;
+	}
+	section {
+		padding: 10px;
+		margin: 15px; 
+		background-image: url(../img/trisquel.jpg);
+		background-repeat: no-repeat;
+		min-height: 400px;
+		background-size: cover;
+	}
+	section article{
+		background-color: rgba(255,255,255,0.6);
+		padding: 50px;
+		min-height: 400px;
+	}
+}
