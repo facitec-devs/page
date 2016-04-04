@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	font-family: sans-serif;
+}
+header{
+	background-color: #e9afcf;
+	padding: 25px;
+	box-shadow: 0px 4px 8px #c93787;
+}
+
+header img{
+	height: 80px;
+	float: left;
+	padding-right: 25px;
+}
+
+h1{
+	color: #fff;
+	font-size: 48px;
+	font-family: sans-serif;
+	padding: 20px;
+	text-shadow: 2px 2px 1px #c93787;
+}
+
+section{
+	padding: 10px;
+	margin: 20px auto;
+	background-image: url(../img/back.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+section article{
+	background-color: rgba(255,255,255,0.6);
+	padding: 50px;
+	min-height: 600px;
+	}
+}
+
