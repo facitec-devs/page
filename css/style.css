@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	font-family: century gothic;
+}
+
+
+header{
+	background-color:#ff6200;
+	padding: 25px;	/*sirve para dar espacio interior*/
+	box-shadow: 0px 5px 8px #4ca5dc;
+}
+
+header img{
+	height: 80px;
+	float: left;
+	padding-right: 15px;
+}
+
+h1{
+	color: #fff;
+	font-size: 48px;
+	
+	padding: 15px;
+	text-shadow: 2px 2px 1px #4ca5dc;
+
+}
+
+section{
+	padding: 30px;
+	margin: 20px auto;
+	background-image: url(../img/Ubuntupc.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+section article{
+	background-color: rgba(255,255,255,0.6);
+	padding: 50px;
+	min-height: 400px;
+
+}
